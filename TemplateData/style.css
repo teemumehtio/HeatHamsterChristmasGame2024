@@ -14,3 +14,5 @@ body { padding: 0; margin: 0 }
 #unity-build-title { float: right; margin-right: 10px; line-height: 38px; font-family: arial; font-size: 18px }
 #unity-fullscreen-button { cursor:pointer; margin-left: auto; margin-right: auto; margin-bottom: 1em; width: 380px; height: 76px; background: url('fullscreen-button.png') no-repeat center }
 #unity-warning { position: absolute; left: 50%; top: 5%; transform: translate(-50%); background: white; padding: 10px; display: none }
+#hamgf { margin-left: auto; margin-right: auto; margin-bottom: 1em; text-align: center; /*width: 902px; height: 120px; background: url('hamgf.png') no-repeat center*/ }
+#presents { margin-left: auto; margin-right: auto; margin-bottom: 1em; text-align: center; /*width: 600px; height: 60px; background: url('presents.png') no-repeat center*/ }
